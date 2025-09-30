@@ -69,3 +69,4 @@ This exercise provided several key insights into password security:
 ## [cite_start]5. Summary of How Complexity Affects Security [cite: 17]
 
 Password complexity directly correlates with security. Each additional character and each new character type (uppercase, number, symbol) exponentially increases the total number of possible combinations an attacker would have to check. A short, simple password might have a few thousand possibilities, which can be cracked in seconds. A long, complex password can have trillions of possibilities, making it resistant to even the most powerful computers for years, as demonstrated by the "5 billion years" crack time estimate.
+NOTE - i'm not using my real name in password because of my own privacy
